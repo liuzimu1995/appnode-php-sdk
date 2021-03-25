@@ -1,0 +1,17 @@
+{
+  "name": "liuzimu/appnodesdk",
+  "authors": [
+    {
+      "name": "liuzimu1995",
+      "email": "1206994556@qq.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "appnodesdk\\": "src/"
+    }
+  }
+}
